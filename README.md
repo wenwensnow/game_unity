@@ -1,4 +1,3 @@
 # GameforPractice
-Create a small game, controls a fighter to hit other planes. Made by unity.
-Open "GameforProject.exe" to start.
+Create a small game to shoot the enemies,directly use the exe file to launch the game .
 
